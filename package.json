@@ -1,0 +1,21 @@
+{
+  "name": "udp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "s": "server.js",
+    "c": "client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josty-Qweenq/udp-server.git"
+  },
+  "keywords": [],
+  "author": "Josty-Qweenq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Josty-Qweenq/udp-server/issues"
+  },
+  "homepage": "https://github.com/Josty-Qweenq/udp-server#readme"
+}
